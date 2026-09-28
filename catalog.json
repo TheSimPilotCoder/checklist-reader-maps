@@ -427,6 +427,48 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-ontario-v1.0/esa-sentinel2-ontario-v1.0.pmtiles",
       "bytes": 290056408,
       "sha256": "7f02b36e395c24efbd8462c0b8e544384047d6a0a0da53644311443e27247671"
+    },
+    {
+      "id": "esa-sentinel2-quebec",
+      "title": "Sentinel-2: Quebec",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 100 m per pixel: towns, lakes, rivers, motorways and large airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -80.15625,
+        44.590467,
+        -56.953125,
+        62.915233
+      ],
+      "maxZoom": 10,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-quebec-v1.0/esa-sentinel2-quebec-v1.0.pmtiles",
+      "bytes": 101166644,
+      "sha256": "3ba6a18c60675e02a7f59507e7ee9bd57df7632c3850240fff79c1b266f1b7eb"
+    },
+    {
+      "id": "esa-sentinel2-iberia",
+      "title": "Sentinel-2: Spain and Portugal",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 11,
+      "bounds": [
+        -9.667969,
+        35.88905,
+        3.515625,
+        43.961191
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-iberia-v1.0/esa-sentinel2-iberia-v1.0.pmtiles",
+      "bytes": 281263110,
+      "sha256": "ff28ab7fc8bafe27b3e030ef952bfe635eee26f23a46f96559f8174692ec2d0e"
     }
   ]
 }

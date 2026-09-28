@@ -56,6 +56,8 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | France and Benelux | 11–12 | 394 MB | 5.1° W – 8.4° E, 42.3° N – 53.6° N |
 | Nunavut | 9–9 | 134 MB | 120.2° W – 61.2° W, 51.2° N – 83.1° N |
 | Ontario | 9–11 | 277 MB | 95.6° W – 73.8° W, 41.5° N – 56.9° N |
+| Quebec | 9–10 | 96 MB | 80.2° W – 57.0° W, 44.6° N – 62.9° N |
+| Spain and Portugal | 11–12 | 268 MB | 9.7° W – 3.5° E, 35.9° N – 44.0° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -123,4 +125,6 @@ byte-identical files.
 | `esa-sentinel2-france-benelux-v1.0.pmtiles` | `2e23a107a58dc671af4fc832a317e96e624c6f817d2100d49061bfd1a898d3eb` |
 | `esa-sentinel2-nunavut-v1.0.pmtiles` | `48fd89b8853ce0527d8a7dc3846cd5cbed25f635b4acf02136c78a44c8f048fd` |
 | `esa-sentinel2-ontario-v1.0.pmtiles` | `7f02b36e395c24efbd8462c0b8e544384047d6a0a0da53644311443e27247671` |
+| `esa-sentinel2-quebec-v1.0.pmtiles` | `3ba6a18c60675e02a7f59507e7ee9bd57df7632c3850240fff79c1b266f1b7eb` |
+| `esa-sentinel2-iberia-v1.0.pmtiles` | `ff28ab7fc8bafe27b3e030ef952bfe635eee26f23a46f96559f8174692ec2d0e` |
 <!-- files:end -->
