@@ -385,6 +385,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-france-benelux-v1.0/esa-sentinel2-france-benelux-v1.0.pmtiles",
       "bytes": 412741132,
       "sha256": "2e23a107a58dc671af4fc832a317e96e624c6f817d2100d49061bfd1a898d3eb"
+    },
+    {
+      "id": "esa-sentinel2-nunavut",
+      "title": "Sentinel-2: Nunavut",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 200 m per pixel: cities, lakes, rivers and coastlines.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -120.234375,
+        51.179343,
+        -61.171875,
+        83.111071
+      ],
+      "maxZoom": 9,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nunavut-v1.0/esa-sentinel2-nunavut-v1.0.pmtiles",
+      "bytes": 140418373,
+      "sha256": "48fd89b8853ce0527d8a7dc3846cd5cbed25f635b4acf02136c78a44c8f048fd"
     }
   ]
 }
