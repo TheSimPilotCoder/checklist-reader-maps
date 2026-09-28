@@ -52,6 +52,7 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Northwest Territories | 9–10 | 173 MB | 137.1° W – 101.2° W, 59.9° N – 78.9° N |
 | Saskatchewan | 9–11 | 103 MB | 110.4° W – 101.2° W, 48.9° N – 60.2° N |
 | United Kingdom and Ireland | 11–12 | 172 MB | 10.7° W – 1.9° E, 49.7° N – 60.9° N |
+| Manitoba | 9–11 | 149 MB | 102.7° W – 88.6° W, 48.9° N – 60.2° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -115,4 +116,5 @@ byte-identical files.
 | `esa-sentinel2-nwt-v1.0.pmtiles` | `5dccf351e3803df50f1b2551ead6d593af174ad6ed8f169b31f4ab9b04f3e055` |
 | `esa-sentinel2-saskatchewan-v1.0.pmtiles` | `acf9cf35879d5a0fccbef93545eecca4e8a579f88b8926b8d03995d55bfbd3cd` |
 | `esa-sentinel2-uk-ireland-v1.0.pmtiles` | `d675907f723b5c52190b4850a629962b6a9afdf8fa3022bb5d9f27cff5f2aed2` |
+| `esa-sentinel2-manitoba-v1.0.pmtiles` | `76237cc30f87e984e7dd116bba78f890d150a4820ebcc78f8e4721d855bbb81e` |
 <!-- files:end -->

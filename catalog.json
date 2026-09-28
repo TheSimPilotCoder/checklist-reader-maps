@@ -343,6 +343,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-uk-ireland-v1.0/esa-sentinel2-uk-ireland-v1.0.pmtiles",
       "bytes": 180590521,
       "sha256": "d675907f723b5c52190b4850a629962b6a9afdf8fa3022bb5d9f27cff5f2aed2"
+    },
+    {
+      "id": "esa-sentinel2-manitoba",
+      "title": "Sentinel-2: Manitoba",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 50 m per pixel: towns and villages, main roads and airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -102.65625,
+        48.922499,
+        -88.59375,
+        60.239811
+      ],
+      "maxZoom": 11,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-manitoba-v1.0/esa-sentinel2-manitoba-v1.0.pmtiles",
+      "bytes": 156099212,
+      "sha256": "76237cc30f87e984e7dd116bba78f890d150a4820ebcc78f8e4721d855bbb81e"
     }
   ]
 }
