@@ -154,6 +154,69 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-new-brunswick-v1.0/esa-sentinel2-new-brunswick-v1.0.pmtiles",
       "bytes": 76875321,
       "sha256": "06f3b734ee9791b0cf1d1f79d55a048ebb5a49239ca38b669c32b731dd0ad470"
+    },
+    {
+      "id": "esa-sentinel2-newfoundland-labrador",
+      "title": "Sentinel-2: Newfoundland and Labrador",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 50 m per pixel: towns and villages, main roads and airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -68.203125,
+        46.55886,
+        -52.03125,
+        60.586967
+      ],
+      "maxZoom": 11,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-newfoundland-labrador-v1.0/esa-sentinel2-newfoundland-labrador-v1.0.pmtiles",
+      "bytes": 140803938,
+      "sha256": "ece2eda4317605e846b1331e7c1f45c475013117585e6fecc3fb6f727a5b7d9a"
+    },
+    {
+      "id": "esa-sentinel2-alaska",
+      "title": "Sentinel-2: Alaska",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 100 m per pixel: towns, lakes, rivers, motorways and large airports. Beyond 70 degrees latitude only about 200 m per pixel.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -170.15625,
+        50.736455,
+        -129.375,
+        71.524909
+      ],
+      "maxZoom": 10,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-alaska-v1.0/esa-sentinel2-alaska-v1.0.pmtiles",
+      "bytes": 186979288,
+      "sha256": "2c9e1f2d6f71c45f6e834f91be7d6f86397413296625a83bf0b3c7e981230dfd"
+    },
+    {
+      "id": "esa-sentinel2-australia-nz",
+      "title": "Sentinel-2: Australia and New Zealand",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 100 m per pixel: towns, lakes, rivers, motorways and large airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        111.796875,
+        -48.458352,
+        179.296875,
+        -9.795678
+      ],
+      "maxZoom": 10,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-australia-nz-v1.0/esa-sentinel2-australia-nz-v1.0.pmtiles",
+      "bytes": 122411834,
+      "sha256": "86234c9d1ac4736c4a9226b576b19cdfbd6526df7c4e3a5962c5e545601dd440"
     }
   ]
 }

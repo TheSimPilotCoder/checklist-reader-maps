@@ -43,6 +43,9 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Prince Edward Island | 9–12 | 7 MB | 64.7° W – 61.9° W, 45.6° N – 47.5° N |
 | Nova Scotia | 9–12 | 45 MB | 66.8° W – 59.1° W, 43.1° N – 47.5° N |
 | New Brunswick | 9–12 | 73 MB | 69.6° W – 63.3° W, 44.1° N – 48.5° N |
+| Newfoundland and Labrador | 9–11 | 134 MB | 68.2° W – 52.0° W, 46.6° N – 60.6° N |
+| Alaska | 9–10 | 178 MB | 170.2° W – 129.4° W, 50.7° N – 71.5° N |
+| Australia and New Zealand | 9–10 | 117 MB | 111.8° E – 179.3° E, 48.5° S – 9.8° S |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -97,4 +100,7 @@ byte-identical files.
 | `esa-sentinel2-pei-v1.0.pmtiles` | `488e1f2b31b32c0b988b21424a585ebc6ccdc1238be71b6a0c2478136bb9d93f` |
 | `esa-sentinel2-nova-scotia-v1.0.pmtiles` | `27c10f6c0068bfdde996bd70c5769b5c204bb0319f0c03da9d97d6c7e45b7f0c` |
 | `esa-sentinel2-new-brunswick-v1.0.pmtiles` | `06f3b734ee9791b0cf1d1f79d55a048ebb5a49239ca38b669c32b731dd0ad470` |
+| `esa-sentinel2-newfoundland-labrador-v1.0.pmtiles` | `ece2eda4317605e846b1331e7c1f45c475013117585e6fecc3fb6f727a5b7d9a` |
+| `esa-sentinel2-alaska-v1.0.pmtiles` | `2c9e1f2d6f71c45f6e834f91be7d6f86397413296625a83bf0b3c7e981230dfd` |
+| `esa-sentinel2-australia-nz-v1.0.pmtiles` | `86234c9d1ac4736c4a9226b576b19cdfbd6526df7c4e3a5962c5e545601dd440` |
 <!-- files:end -->
