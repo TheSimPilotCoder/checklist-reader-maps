@@ -511,6 +511,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nordics-south-v1.0/esa-sentinel2-nordics-south-v1.0.pmtiles",
       "bytes": 720509034,
       "sha256": "b00a6d7b4304c4add9f39ec8592ff7dc9bca802e63031347cd152689c1c2fbc5"
+    },
+    {
+      "id": "esa-sentinel2-nordics-north",
+      "title": "Sentinel-2: Northern Norway, Sweden and Finland",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields. Beyond 70 degrees latitude only about 200 m per pixel.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 11,
+      "bounds": [
+        4.394531,
+        62.995158,
+        31.640625,
+        71.244356
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nordics-north-v1.0/esa-sentinel2-nordics-north-v1.0.pmtiles",
+      "bytes": 702442263,
+      "sha256": "d84d8cd717c859bf20ecedecd0ca5d3dc7d01648b4dae4f50efc69773c0552db"
     }
   ]
 }
