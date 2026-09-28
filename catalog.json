@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "maps": [
+    {
+      "id": "natural-earth-relief",
+      "title": "Relief (Natural Earth)",
+      "description": "Light shaded-relief map with terrain colours, lakes, rivers and ocean depth. Sharp up to about a whole country on screen.",
+      "credit": "Map: Natural Earth",
+      "license": "Public domain",
+      "infoUrl": "https://www.naturalearthdata.com/downloads/10m-raster-data/10m-cross-blend-hypso/",
+      "version": "1.0",
+      "maxZoom": 7,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/natural-earth-relief-v1.0/natural-earth-relief-v1.0.pmtiles",
+      "bytes": 84419366,
+      "sha256": "d06393c6f1c6f4807a03603d7c48162bcc45c8915037254728c0faddf55204f4"
+    },
+    {
+      "id": "nasa-blue-marble",
+      "title": "Satellite (NASA Blue Marble)",
+      "description": "Cloud-free satellite image of the whole earth at 500 m per pixel, with shaded terrain and ocean depth. Shows valleys, lakes, forests and large towns.",
+      "credit": "Imagery: NASA Blue Marble",
+      "license": "NASA imagery, not subject to copyright (credit: NASA Earth Observatory)",
+      "infoUrl": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/",
+      "version": "1.0",
+      "maxZoom": 8,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/nasa-blue-marble-v1.0/nasa-blue-marble-v1.0.pmtiles",
+      "bytes": 313330825,
+      "sha256": "7f6325808a0f6f69652dc4c1b88ff806257ee71e82c31d04c0271df610b7c91e"
+    }
+  ]
+}
