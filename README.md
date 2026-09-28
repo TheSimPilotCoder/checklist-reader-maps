@@ -55,6 +55,7 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Manitoba | 9–11 | 149 MB | 102.7° W – 88.6° W, 48.9° N – 60.2° N |
 | France and Benelux | 11–12 | 394 MB | 5.1° W – 8.4° E, 42.3° N – 53.6° N |
 | Nunavut | 9–9 | 134 MB | 120.2° W – 61.2° W, 51.2° N – 83.1° N |
+| Ontario | 9–11 | 277 MB | 95.6° W – 73.8° W, 41.5° N – 56.9° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -121,4 +122,5 @@ byte-identical files.
 | `esa-sentinel2-manitoba-v1.0.pmtiles` | `76237cc30f87e984e7dd116bba78f890d150a4820ebcc78f8e4721d855bbb81e` |
 | `esa-sentinel2-france-benelux-v1.0.pmtiles` | `2e23a107a58dc671af4fc832a317e96e624c6f817d2100d49061bfd1a898d3eb` |
 | `esa-sentinel2-nunavut-v1.0.pmtiles` | `48fd89b8853ce0527d8a7dc3846cd5cbed25f635b4acf02136c78a44c8f048fd` |
+| `esa-sentinel2-ontario-v1.0.pmtiles` | `7f02b36e395c24efbd8462c0b8e544384047d6a0a0da53644311443e27247671` |
 <!-- files:end -->

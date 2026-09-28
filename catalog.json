@@ -406,6 +406,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nunavut-v1.0/esa-sentinel2-nunavut-v1.0.pmtiles",
       "bytes": 140418373,
       "sha256": "48fd89b8853ce0527d8a7dc3846cd5cbed25f635b4acf02136c78a44c8f048fd"
+    },
+    {
+      "id": "esa-sentinel2-ontario",
+      "title": "Sentinel-2: Ontario",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 50 m per pixel: towns and villages, main roads and airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -95.625,
+        41.508577,
+        -73.828125,
+        56.944974
+      ],
+      "maxZoom": 11,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-ontario-v1.0/esa-sentinel2-ontario-v1.0.pmtiles",
+      "bytes": 290056408,
+      "sha256": "7f02b36e395c24efbd8462c0b8e544384047d6a0a0da53644311443e27247671"
     }
   ]
 }
