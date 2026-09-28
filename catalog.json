@@ -490,6 +490,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-italy-malta-v1.0/esa-sentinel2-italy-malta-v1.0.pmtiles",
       "bytes": 261398108,
       "sha256": "8d78fa6c16c31a0b8de816c92c22a40d40b9078dc3bfe038aa07d9e5e4b0569a"
+    },
+    {
+      "id": "esa-sentinel2-nordics-south",
+      "title": "Sentinel-2: Denmark and southern Norway, Sweden and Finland",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 11,
+      "bounds": [
+        4.394531,
+        54.470038,
+        31.640625,
+        63.074866
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nordics-south-v1.0/esa-sentinel2-nordics-south-v1.0.pmtiles",
+      "bytes": 720509034,
+      "sha256": "b00a6d7b4304c4add9f39ec8592ff7dc9bca802e63031347cd152689c1c2fbc5"
     }
   ]
 }

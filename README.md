@@ -59,6 +59,7 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Quebec | 9–10 | 96 MB | 80.2° W – 57.0° W, 44.6° N – 62.9° N |
 | Spain and Portugal | 11–12 | 268 MB | 9.7° W – 3.5° E, 35.9° N – 44.0° N |
 | Italy and Malta | 11–12 | 249 MB | 6.5° E – 18.6° E, 35.7° N – 47.2° N |
+| Denmark and southern Norway, Sweden and Finland | 11–12 | 687 MB | 4.4° E – 31.6° E, 54.5° N – 63.1° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -129,4 +130,5 @@ byte-identical files.
 | `esa-sentinel2-quebec-v1.0.pmtiles` | `3ba6a18c60675e02a7f59507e7ee9bd57df7632c3850240fff79c1b266f1b7eb` |
 | `esa-sentinel2-iberia-v1.0.pmtiles` | `ff28ab7fc8bafe27b3e030ef952bfe635eee26f23a46f96559f8174692ec2d0e` |
 | `esa-sentinel2-italy-malta-v1.0.pmtiles` | `8d78fa6c16c31a0b8de816c92c22a40d40b9078dc3bfe038aa07d9e5e4b0569a` |
+| `esa-sentinel2-nordics-south-v1.0.pmtiles` | `b00a6d7b4304c4add9f39ec8592ff7dc9bca802e63031347cd152689c1c2fbc5` |
 <!-- files:end -->
