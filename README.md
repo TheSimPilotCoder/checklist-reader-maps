@@ -30,10 +30,16 @@ A detail pack holds only the deeper zoom levels of one area. It is listed under
 program draws it over that map whenever the map is shown; it is never shown on
 its own. Program versions without detail packs ignore the `details` list.
 
-| Detail pack | For map | Zoom | Size | Area | Source | Licence |
-|---|---|---|---|---|---|---|
-| Sentinel-2: Europe (overview) | Satellite (NASA Blue Marble) | 9–10 (about 100 m per pixel) | 374 MB | 25° W – 45° E, 34° N – 72° N | ESA WorldCover 2021 Sentinel-2 yearly median composite, read at 80 m; sea from NASA Blue Marble | CC BY 4.0 |
-| Sentinel-2: Germany, Austria and Switzerland | Satellite (NASA Blue Marble) | 11–12 (about 25 m per pixel) | 358 MB | 5.8° E – 17.2° E, 45.8° N – 55.1° N | ESA WorldCover 2021 Sentinel-2 yearly median composite, read at 40 m; sea from NASA Blue Marble | CC BY 4.0 |
+All detail packs are drawn over **Satellite (NASA Blue Marble)** and come from
+the ESA WorldCover 2021 Sentinel-2 yearly median composite (sea from NASA Blue
+Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
+
+<!-- detail-packs:start -->
+| Detail pack | Zoom | Size | Area |
+|---|---|---|---|
+| Europe (overview) | 9–10 | 374 MB | 25.3° W – 45.7° E, 33.7° N – 72.2° N |
+| Germany, Austria and Switzerland | 11–12 | 358 MB | 5.6° E – 17.2° E, 45.7° N – 55.2° N |
+<!-- detail-packs:end -->
 
 ## Credits and terms
 
@@ -70,15 +76,17 @@ numbering). Any PMTiles viewer, for example <https://pmtiles.io>, can open it.
 
 GDAL 3.12 (from QGIS 3.44): the source rasters are tiled with
 `gdal raster tile` (WebMercatorQuad, cubic resampling at the deepest level,
-average for the levels above, JPEG quality 85), then packed into PMTiles with
+average for the levels above, JPEG quality 85, Sentinel-2 packs 80), then packed into PMTiles with
 the `pmtiles` Python package. The build is reproducible: the same sources give
 byte-identical files.
 
 ## Files
 
+<!-- files:start -->
 | File | SHA-256 |
 |---|---|
 | `natural-earth-relief-v1.0.pmtiles` | `d06393c6f1c6f4807a03603d7c48162bcc45c8915037254728c0faddf55204f4` |
 | `nasa-blue-marble-v1.0.pmtiles` | `7f6325808a0f6f69652dc4c1b88ff806257ee71e82c31d04c0271df610b7c91e` |
 | `esa-sentinel2-europe-v1.0.pmtiles` | `3417e0ad2471074e188178ca5155a8833439c5bd0d713c659969ff850a546347` |
 | `esa-sentinel2-dach-v1.0.pmtiles` | `f4bafe082ae78382322543cc58397b31cb887ee9be465dc88be36439ff52e29a` |
+<!-- files:end -->
