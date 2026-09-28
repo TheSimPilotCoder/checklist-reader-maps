@@ -91,6 +91,69 @@
         -65.390625,
         50.289339
       ]
+    },
+    {
+      "id": "esa-sentinel2-pei",
+      "title": "Sentinel-2: Prince Edward Island",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -64.6875,
+        45.58329,
+        -61.875,
+        47.517201
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-pei-v1.0/esa-sentinel2-pei-v1.0.pmtiles",
+      "bytes": 6935127,
+      "sha256": "488e1f2b31b32c0b988b21424a585ebc6ccdc1238be71b6a0c2478136bb9d93f"
+    },
+    {
+      "id": "esa-sentinel2-nova-scotia",
+      "title": "Sentinel-2: Nova Scotia",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -66.796875,
+        43.068888,
+        -59.0625,
+        47.517201
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nova-scotia-v1.0/esa-sentinel2-nova-scotia-v1.0.pmtiles",
+      "bytes": 47327465,
+      "sha256": "27c10f6c0068bfdde996bd70c5769b5c204bb0319f0c03da9d97d6c7e45b7f0c"
+    },
+    {
+      "id": "esa-sentinel2-new-brunswick",
+      "title": "Sentinel-2: New Brunswick",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -69.609375,
+        44.087585,
+        -63.28125,
+        48.458352
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-new-brunswick-v1.0/esa-sentinel2-new-brunswick-v1.0.pmtiles",
+      "bytes": 76875321,
+      "sha256": "06f3b734ee9791b0cf1d1f79d55a048ebb5a49239ca38b669c32b731dd0ad470"
     }
   ]
 }

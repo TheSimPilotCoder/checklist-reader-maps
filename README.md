@@ -40,6 +40,9 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Europe (overview) | 9–10 | 374 MB | 25.3° W – 45.7° E, 33.7° N – 72.2° N |
 | Germany, Austria and Switzerland | 11–12 | 358 MB | 5.6° E – 17.2° E, 45.7° N – 55.2° N |
 | USA, lower 48 states (overview) | 9–10 | 222 MB | 125.2° W – 65.4° W, 23.9° N – 50.3° N |
+| Prince Edward Island | 9–12 | 7 MB | 64.7° W – 61.9° W, 45.6° N – 47.5° N |
+| Nova Scotia | 9–12 | 45 MB | 66.8° W – 59.1° W, 43.1° N – 47.5° N |
+| New Brunswick | 9–12 | 73 MB | 69.6° W – 63.3° W, 44.1° N – 48.5° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -91,4 +94,7 @@ byte-identical files.
 | `esa-sentinel2-europe-v1.0.pmtiles` | `3417e0ad2471074e188178ca5155a8833439c5bd0d713c659969ff850a546347` |
 | `esa-sentinel2-dach-v1.0.pmtiles` | `f4bafe082ae78382322543cc58397b31cb887ee9be465dc88be36439ff52e29a` |
 | `esa-sentinel2-usa-v1.0.pmtiles` | `1cada784e2754bc5b2eeddead842fc3e7057015265fc38d19af72ebdf0e43893` |
+| `esa-sentinel2-pei-v1.0.pmtiles` | `488e1f2b31b32c0b988b21424a585ebc6ccdc1238be71b6a0c2478136bb9d93f` |
+| `esa-sentinel2-nova-scotia-v1.0.pmtiles` | `27c10f6c0068bfdde996bd70c5769b5c204bb0319f0c03da9d97d6c7e45b7f0c` |
+| `esa-sentinel2-new-brunswick-v1.0.pmtiles` | `06f3b734ee9791b0cf1d1f79d55a048ebb5a49239ca38b669c32b731dd0ad470` |
 <!-- files:end -->
