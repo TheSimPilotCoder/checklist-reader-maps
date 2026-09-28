@@ -46,6 +46,8 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Newfoundland and Labrador | 9–11 | 134 MB | 68.2° W – 52.0° W, 46.6° N – 60.6° N |
 | Alaska | 9–10 | 178 MB | 170.2° W – 129.4° W, 50.7° N – 71.5° N |
 | Australia and New Zealand | 9–10 | 117 MB | 111.8° E – 179.3° E, 48.5° S – 9.8° S |
+| Yukon | 9–11 | 270 MB | 141.3° W – 123.8° W, 59.9° N – 69.7° N |
+| British Columbia | 9–11 | 273 MB | 139.9° W – 113.9° W, 48.0° N – 60.2° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -103,4 +105,6 @@ byte-identical files.
 | `esa-sentinel2-newfoundland-labrador-v1.0.pmtiles` | `ece2eda4317605e846b1331e7c1f45c475013117585e6fecc3fb6f727a5b7d9a` |
 | `esa-sentinel2-alaska-v1.0.pmtiles` | `2c9e1f2d6f71c45f6e834f91be7d6f86397413296625a83bf0b3c7e981230dfd` |
 | `esa-sentinel2-australia-nz-v1.0.pmtiles` | `86234c9d1ac4736c4a9226b576b19cdfbd6526df7c4e3a5962c5e545601dd440` |
+| `esa-sentinel2-yukon-v1.0.pmtiles` | `0c773097da186bf8ee4bc3fcd87e895ec8967d7b443dd45b3d1cf988350b1b97` |
+| `esa-sentinel2-british-columbia-v1.0.pmtiles` | `437989d471c1d176c7cf707da0cb860d5879cac964b3d6f96e8ac5753316b707` |
 <!-- files:end -->

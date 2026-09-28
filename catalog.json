@@ -217,6 +217,48 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-australia-nz-v1.0/esa-sentinel2-australia-nz-v1.0.pmtiles",
       "bytes": 122411834,
       "sha256": "86234c9d1ac4736c4a9226b576b19cdfbd6526df7c4e3a5962c5e545601dd440"
+    },
+    {
+      "id": "esa-sentinel2-yukon",
+      "title": "Sentinel-2: Yukon",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 50 m per pixel: towns and villages, main roads and airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -141.328125,
+        59.888937,
+        -123.75,
+        69.657086
+      ],
+      "maxZoom": 11,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-yukon-v1.0/esa-sentinel2-yukon-v1.0.pmtiles",
+      "bytes": 282713383,
+      "sha256": "0c773097da186bf8ee4bc3fcd87e895ec8967d7b443dd45b3d1cf988350b1b97"
+    },
+    {
+      "id": "esa-sentinel2-british-columbia",
+      "title": "Sentinel-2: British Columbia",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 50 m per pixel: towns and villages, main roads and airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -139.921875,
+        47.989922,
+        -113.90625,
+        60.239811
+      ],
+      "maxZoom": 11,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-british-columbia-v1.0/esa-sentinel2-british-columbia-v1.0.pmtiles",
+      "bytes": 286656715,
+      "sha256": "437989d471c1d176c7cf707da0cb860d5879cac964b3d6f96e8ac5753316b707"
     }
   ]
 }
