@@ -43,6 +43,21 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-europe-v1.0/esa-sentinel2-europe-v1.0.pmtiles",
       "bytes": 391653661,
       "sha256": "3417e0ad2471074e188178ca5155a8833439c5bd0d713c659969ff850a546347"
+    },
+    {
+      "id": "esa-sentinel2-dach",
+      "title": "Sentinel-2: Germany, Austria and Switzerland",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 11,
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-dach-v1.0/esa-sentinel2-dach-v1.0.pmtiles",
+      "bytes": 375358546,
+      "sha256": "f4bafe082ae78382322543cc58397b31cb887ee9be465dc88be36439ff52e29a"
     }
   ]
 }

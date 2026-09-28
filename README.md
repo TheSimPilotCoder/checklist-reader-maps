@@ -33,6 +33,7 @@ its own. Program versions without detail packs ignore the `details` list.
 | Detail pack | For map | Zoom | Size | Area | Source | Licence |
 |---|---|---|---|---|---|---|
 | Sentinel-2: Europe (overview) | Satellite (NASA Blue Marble) | 9–10 (about 100 m per pixel) | 374 MB | 25° W – 45° E, 34° N – 72° N | ESA WorldCover 2021 Sentinel-2 yearly median composite, read at 80 m; sea from NASA Blue Marble | CC BY 4.0 |
+| Sentinel-2: Germany, Austria and Switzerland | Satellite (NASA Blue Marble) | 11–12 (about 25 m per pixel) | 358 MB | 5.8° E – 17.2° E, 45.8° N – 55.1° N | ESA WorldCover 2021 Sentinel-2 yearly median composite, read at 40 m; sea from NASA Blue Marble | CC BY 4.0 |
 
 ## Credits and terms
 
@@ -80,3 +81,4 @@ byte-identical files.
 | `natural-earth-relief-v1.0.pmtiles` | `d06393c6f1c6f4807a03603d7c48162bcc45c8915037254728c0faddf55204f4` |
 | `nasa-blue-marble-v1.0.pmtiles` | `7f6325808a0f6f69652dc4c1b88ff806257ee71e82c31d04c0271df610b7c91e` |
 | `esa-sentinel2-europe-v1.0.pmtiles` | `3417e0ad2471074e188178ca5155a8833439c5bd0d713c659969ff850a546347` |
+| `esa-sentinel2-dach-v1.0.pmtiles` | `f4bafe082ae78382322543cc58397b31cb887ee9be465dc88be36439ff52e29a` |
