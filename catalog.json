@@ -259,6 +259,48 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-british-columbia-v1.0/esa-sentinel2-british-columbia-v1.0.pmtiles",
       "bytes": 286656715,
       "sha256": "437989d471c1d176c7cf707da0cb860d5879cac964b3d6f96e8ac5753316b707"
+    },
+    {
+      "id": "esa-sentinel2-japan",
+      "title": "Sentinel-2: Japan",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        127.96875,
+        29.53523,
+        146.25,
+        46.073231
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-japan-v1.0/esa-sentinel2-japan-v1.0.pmtiles",
+      "bytes": 270684222,
+      "sha256": "26105bc7cdf28acdf623c814cbfd3b488a835fb87c5b08af8df412c7b4cf6fe7"
+    },
+    {
+      "id": "esa-sentinel2-nwt",
+      "title": "Sentinel-2: Northwest Territories",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 100 m per pixel: towns, lakes, rivers, motorways and large airports. Beyond 70 degrees latitude only about 200 m per pixel.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -137.109375,
+        59.888937,
+        -101.25,
+        78.903929
+      ],
+      "maxZoom": 10,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nwt-v1.0/esa-sentinel2-nwt-v1.0.pmtiles",
+      "bytes": 181189105,
+      "sha256": "5dccf351e3803df50f1b2551ead6d593af174ad6ed8f169b31f4ab9b04f3e055"
     }
   ]
 }
