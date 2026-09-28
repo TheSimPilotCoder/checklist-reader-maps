@@ -50,6 +50,8 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | British Columbia | 9–11 | 273 MB | 139.9° W – 113.9° W, 48.0° N – 60.2° N |
 | Japan | 9–12 | 258 MB | 128.0° E – 146.2° E, 29.5° N – 46.1° N |
 | Northwest Territories | 9–10 | 173 MB | 137.1° W – 101.2° W, 59.9° N – 78.9° N |
+| Saskatchewan | 9–11 | 103 MB | 110.4° W – 101.2° W, 48.9° N – 60.2° N |
+| United Kingdom and Ireland | 11–12 | 172 MB | 10.7° W – 1.9° E, 49.7° N – 60.9° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -111,4 +113,6 @@ byte-identical files.
 | `esa-sentinel2-british-columbia-v1.0.pmtiles` | `437989d471c1d176c7cf707da0cb860d5879cac964b3d6f96e8ac5753316b707` |
 | `esa-sentinel2-japan-v1.0.pmtiles` | `26105bc7cdf28acdf623c814cbfd3b488a835fb87c5b08af8df412c7b4cf6fe7` |
 | `esa-sentinel2-nwt-v1.0.pmtiles` | `5dccf351e3803df50f1b2551ead6d593af174ad6ed8f169b31f4ab9b04f3e055` |
+| `esa-sentinel2-saskatchewan-v1.0.pmtiles` | `acf9cf35879d5a0fccbef93545eecca4e8a579f88b8926b8d03995d55bfbd3cd` |
+| `esa-sentinel2-uk-ireland-v1.0.pmtiles` | `d675907f723b5c52190b4850a629962b6a9afdf8fa3022bb5d9f27cff5f2aed2` |
 <!-- files:end -->
