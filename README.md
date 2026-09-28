@@ -23,6 +23,17 @@ Beyond its sharpest level the program enlarges the map (softer, but in the
 right place). Tiles at the deepest level that show only open ocean are left out
 of the files; the program enlarges their parent instead.
 
+## Detail packs
+
+A detail pack holds only the deeper zoom levels of one area. It is listed under
+`details` in `catalog.json`, names the map it belongs to in `extends`, and the
+program draws it over that map whenever the map is shown; it is never shown on
+its own. Program versions without detail packs ignore the `details` list.
+
+| Detail pack | For map | Zoom | Size | Area | Source | Licence |
+|---|---|---|---|---|---|---|
+| Sentinel-2: Europe (overview) | Satellite (NASA Blue Marble) | 9–10 (about 100 m per pixel) | 374 MB | 25° W – 45° E, 34° N – 72° N | ESA WorldCover 2021 Sentinel-2 yearly median composite, read at 80 m; sea from NASA Blue Marble | CC BY 4.0 |
+
 ## Credits and terms
 
 - **Natural Earth** — free vector and raster map data @ naturalearthdata.com.
@@ -33,11 +44,20 @@ of the files; the program enlarges their parent instead.
   NASA asks to be acknowledged as the source. The program shows
   "Imagery: NASA Blue Marble" on the map while this map is in use.
   <https://www.nasa.gov/nasa-brand-center/images-and-media/>
+- **ESA WorldCover Sentinel-2 composite** (detail packs) — © ESA WorldCover
+  project 2021 / Contains modified Copernicus Sentinel data (2021) processed by
+  ESA WorldCover consortium. Licensed under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes made: the
+  red, green and blue bands were scaled to 8-bit colour and resampled to the
+  WebMercator tile grid, and open water connected to the sea was replaced by
+  NASA Blue Marble. The program shows the credit on the map while a detail
+  pack is in use. <https://esa-worldcover.org/en/data-access>
 - The land mask used to leave out open ocean is Natural Earth 1:10m land and
-  minor islands (public domain).
+  minor islands (public domain); for the Sentinel-2 packs it is the
+  composite's own 1-degree tile grid.
 
-Checklist Reader is not affiliated with, sponsored or endorsed by NASA or
-Natural Earth.
+Checklist Reader is not affiliated with, sponsored or endorsed by NASA, ESA,
+the European Commission, the Copernicus programme or Natural Earth.
 
 ## File format
 
@@ -59,3 +79,4 @@ byte-identical files.
 |---|---|
 | `natural-earth-relief-v1.0.pmtiles` | `d06393c6f1c6f4807a03603d7c48162bcc45c8915037254728c0faddf55204f4` |
 | `nasa-blue-marble-v1.0.pmtiles` | `7f6325808a0f6f69652dc4c1b88ff806257ee71e82c31d04c0271df610b7c91e` |
+| `esa-sentinel2-europe-v1.0.pmtiles` | `3417e0ad2471074e188178ca5155a8833439c5bd0d713c659969ff850a546347` |

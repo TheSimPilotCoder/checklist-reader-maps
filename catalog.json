@@ -27,5 +27,22 @@
       "bytes": 313330825,
       "sha256": "7f6325808a0f6f69652dc4c1b88ff806257ee71e82c31d04c0271df610b7c91e"
     }
+  ],
+  "details": [
+    {
+      "id": "esa-sentinel2-europe",
+      "title": "Sentinel-2: Europe (overview)",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 100 m per pixel: towns, lakes, rivers, motorways and large airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "maxZoom": 10,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-europe-v1.0/esa-sentinel2-europe-v1.0.pmtiles",
+      "bytes": 391653661,
+      "sha256": "3417e0ad2471074e188178ca5155a8833439c5bd0d713c659969ff850a546347"
+    }
   ]
 }
