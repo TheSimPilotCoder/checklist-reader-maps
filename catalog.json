@@ -70,6 +70,27 @@
         17.226562,
         55.178868
       ]
+    },
+    {
+      "id": "esa-sentinel2-usa",
+      "title": "Sentinel-2: USA, lower 48 states (overview)",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 100 m per pixel: towns, lakes, rivers, motorways and large airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "maxZoom": 10,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-usa-v1.0/esa-sentinel2-usa-v1.0.pmtiles",
+      "bytes": 233027105,
+      "sha256": "1cada784e2754bc5b2eeddead842fc3e7057015265fc38d19af72ebdf0e43893",
+      "bounds": [
+        -125.15625,
+        23.885838,
+        -65.390625,
+        50.289339
+      ]
     }
   ]
 }

@@ -39,6 +39,7 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 |---|---|---|---|
 | Europe (overview) | 9–10 | 374 MB | 25.3° W – 45.7° E, 33.7° N – 72.2° N |
 | Germany, Austria and Switzerland | 11–12 | 358 MB | 5.6° E – 17.2° E, 45.7° N – 55.2° N |
+| USA, lower 48 states (overview) | 9–10 | 222 MB | 125.2° W – 65.4° W, 23.9° N – 50.3° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -89,4 +90,5 @@ byte-identical files.
 | `nasa-blue-marble-v1.0.pmtiles` | `7f6325808a0f6f69652dc4c1b88ff806257ee71e82c31d04c0271df610b7c91e` |
 | `esa-sentinel2-europe-v1.0.pmtiles` | `3417e0ad2471074e188178ca5155a8833439c5bd0d713c659969ff850a546347` |
 | `esa-sentinel2-dach-v1.0.pmtiles` | `f4bafe082ae78382322543cc58397b31cb887ee9be465dc88be36439ff52e29a` |
+| `esa-sentinel2-usa-v1.0.pmtiles` | `1cada784e2754bc5b2eeddead842fc3e7057015265fc38d19af72ebdf0e43893` |
 <!-- files:end -->
