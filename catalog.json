@@ -532,6 +532,48 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-nordics-north-v1.0/esa-sentinel2-nordics-north-v1.0.pmtiles",
       "bytes": 702442263,
       "sha256": "d84d8cd717c859bf20ecedecd0ca5d3dc7d01648b4dae4f50efc69773c0552db"
+    },
+    {
+      "id": "esa-sentinel2-central-eastern-europe",
+      "title": "Sentinel-2: Czechia, Slovakia, Hungary, Slovenia and Croatia",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 11,
+      "bounds": [
+        11.953125,
+        42.423457,
+        23.027344,
+        51.179343
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-central-eastern-europe-v1.0/esa-sentinel2-central-eastern-europe-v1.0.pmtiles",
+      "bytes": 316625588,
+      "sha256": "4b8e8bf6a2fb7baaa1f1794c42f034e3327cf82dcbfc011ec979d46309c9d4da"
+    },
+    {
+      "id": "esa-sentinel2-poland-baltics",
+      "title": "Sentinel-2: Poland and the Baltic states",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 11,
+      "bounds": [
+        14.0625,
+        48.922499,
+        28.300781,
+        59.712097
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-poland-baltics-v1.0/esa-sentinel2-poland-baltics-v1.0.pmtiles",
+      "bytes": 457275152,
+      "sha256": "f1a582987756ec14f8b99cc2872b53ca3f7f40349e447b5f698a68557ac2d399"
     }
   ]
 }

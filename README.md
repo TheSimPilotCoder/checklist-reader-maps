@@ -61,6 +61,8 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Italy and Malta | 11–12 | 249 MB | 6.5° E – 18.6° E, 35.7° N – 47.2° N |
 | Denmark and southern Norway, Sweden and Finland | 11–12 | 687 MB | 4.4° E – 31.6° E, 54.5° N – 63.1° N |
 | Northern Norway, Sweden and Finland | 11–12 | 670 MB | 4.4° E – 31.6° E, 63.0° N – 71.2° N |
+| Czechia, Slovakia, Hungary, Slovenia and Croatia | 11–12 | 302 MB | 12.0° E – 23.0° E, 42.4° N – 51.2° N |
+| Poland and the Baltic states | 11–12 | 436 MB | 14.1° E – 28.3° E, 48.9° N – 59.7° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -133,4 +135,6 @@ byte-identical files.
 | `esa-sentinel2-italy-malta-v1.0.pmtiles` | `8d78fa6c16c31a0b8de816c92c22a40d40b9078dc3bfe038aa07d9e5e4b0569a` |
 | `esa-sentinel2-nordics-south-v1.0.pmtiles` | `b00a6d7b4304c4add9f39ec8592ff7dc9bca802e63031347cd152689c1c2fbc5` |
 | `esa-sentinel2-nordics-north-v1.0.pmtiles` | `d84d8cd717c859bf20ecedecd0ca5d3dc7d01648b4dae4f50efc69773c0552db` |
+| `esa-sentinel2-central-eastern-europe-v1.0.pmtiles` | `4b8e8bf6a2fb7baaa1f1794c42f034e3327cf82dcbfc011ec979d46309c9d4da` |
+| `esa-sentinel2-poland-baltics-v1.0.pmtiles` | `f1a582987756ec14f8b99cc2872b53ca3f7f40349e447b5f698a68557ac2d399` |
 <!-- files:end -->
