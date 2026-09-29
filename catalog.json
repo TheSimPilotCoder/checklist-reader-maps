@@ -574,6 +574,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-poland-baltics-v1.0/esa-sentinel2-poland-baltics-v1.0.pmtiles",
       "bytes": 457275152,
       "sha256": "f1a582987756ec14f8b99cc2872b53ca3f7f40349e447b5f698a68557ac2d399"
+    },
+    {
+      "id": "esa-sentinel2-alberta",
+      "title": "Sentinel-2: Alberta",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 50 m per pixel: towns and villages, main roads and airports.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        -120.234375,
+        48.922499,
+        -109.6875,
+        60.239811
+      ],
+      "maxZoom": 11,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-alberta-v1.0/esa-sentinel2-alberta-v1.0.pmtiles",
+      "bytes": 132797376,
+      "sha256": "3a1265412465298415376bfeb1a6760bf891a6f560e806f365c25bc27259711f"
     }
   ]
 }
