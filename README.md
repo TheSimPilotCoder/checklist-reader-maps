@@ -64,6 +64,7 @@ Marble), licensed CC BY 4.0. Beyond 70° latitude they stop at zoom 9.
 | Czechia, Slovakia, Hungary, Slovenia and Croatia | 11–12 | 302 MB | 12.0° E – 23.0° E, 42.4° N – 51.2° N |
 | Poland and the Baltic states | 11–12 | 436 MB | 14.1° E – 28.3° E, 48.9° N – 59.7° N |
 | Alberta | 9–11 | 127 MB | 120.2° W – 109.7° W, 48.9° N – 60.2° N |
+| Papua New Guinea | 9–12 | 110 MB | 140.6° E – 159.6° E, 11.9° S – 0.0° N |
 <!-- detail-packs:end -->
 
 ## Credits and terms
@@ -139,4 +140,5 @@ byte-identical files.
 | `esa-sentinel2-central-eastern-europe-v1.0.pmtiles` | `4b8e8bf6a2fb7baaa1f1794c42f034e3327cf82dcbfc011ec979d46309c9d4da` |
 | `esa-sentinel2-poland-baltics-v1.0.pmtiles` | `f1a582987756ec14f8b99cc2872b53ca3f7f40349e447b5f698a68557ac2d399` |
 | `esa-sentinel2-alberta-v1.0.pmtiles` | `3a1265412465298415376bfeb1a6760bf891a6f560e806f365c25bc27259711f` |
+| `esa-sentinel2-papua-new-guinea-v1.0.pmtiles` | `e505befb4927ccbc5598bd03e0e41253c139c78275f649cf23a03091be0ac68f` |
 <!-- files:end -->

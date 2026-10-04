@@ -595,6 +595,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-alberta-v1.0/esa-sentinel2-alberta-v1.0.pmtiles",
       "bytes": 132797376,
       "sha256": "3a1265412465298415376bfeb1a6760bf891a6f560e806f365c25bc27259711f"
+    },
+    {
+      "id": "esa-sentinel2-papua-new-guinea",
+      "title": "Sentinel-2: Papua New Guinea",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        140.625,
+        -11.867351,
+        159.609375,
+        0.0
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-papua-new-guinea-v1.0/esa-sentinel2-papua-new-guinea-v1.0.pmtiles",
+      "bytes": 114851777,
+      "sha256": "e505befb4927ccbc5598bd03e0e41253c139c78275f649cf23a03091be0ac68f"
     }
   ]
 }
