@@ -616,6 +616,27 @@
       "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-papua-new-guinea-v1.0/esa-sentinel2-papua-new-guinea-v1.0.pmtiles",
       "bytes": 114851777,
       "sha256": "e505befb4927ccbc5598bd03e0e41253c139c78275f649cf23a03091be0ac68f"
+    },
+    {
+      "id": "esa-sentinel2-western-new-guinea",
+      "title": "Sentinel-2: Western New Guinea (Indonesian Papua)",
+      "description": "Cloud-free Sentinel-2 satellite image (year 2021 combined), drawn over Blue Marble inside this area. Sharp down to about 25 m per pixel: villages, roads, fields and the runways of small airfields.",
+      "credit": "Imagery: ESA WorldCover 2021 (Copernicus Sentinel-2)",
+      "license": "CC BY 4.0: (c) ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. Sea: NASA Blue Marble (not subject to copyright).",
+      "infoUrl": "https://esa-worldcover.org/en/data-access",
+      "version": "1.0",
+      "extends": "nasa-blue-marble",
+      "minZoom": 9,
+      "bounds": [
+        128.671875,
+        -9.795678,
+        141.328125,
+        1.406109
+      ],
+      "maxZoom": 12,
+      "url": "https://github.com/TheSimPilotCoder/checklist-reader-maps/releases/download/esa-sentinel2-western-new-guinea-v1.0/esa-sentinel2-western-new-guinea-v1.0.pmtiles",
+      "bytes": 101586040,
+      "sha256": "c1bf196b4790e9a37a948803196b96c77f7ec876e33051f54aa360f3b05d82f0"
     }
   ]
 }
